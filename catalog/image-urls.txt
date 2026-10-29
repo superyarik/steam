@@ -1,1 +1,16 @@
 # <ключ> <url картинки>, по одной строке на модель (ключи — в NEED-IMAGES.md)
+# Превью MakerWorld / Thingiverse / Cults3D взяты через кэш агрегатора polyzon.org
+mw-1742588 https://cache.polyzon.org/api/img?url=https%3A%2F%2Fmakerworld.bblmw.com%2Fmakerworld%2Fmodel%2FUS5bc74954d9a4d6%2Fdesign%2F2025-08-28_b6b3313c03ff68.jpg&w=640
+mw-1109168 https://cache.polyzon.org/api/img?url=https%3A%2F%2Fmakerworld.bblmw.com%2Fmakerworld%2Fmodel%2FDSM00000001109168%2Fdesign%2F2025-02-14_2b0c8213779d3.png&w=640
+mw-449234 https://cache.polyzon.org/api/img?url=https%3A%2F%2Fmakerworld.bblmw.com%2Fmakerworld%2Fmodel%2FDSM00000000449234%2Fdesign%2F2024-04-30_4d3fefeeb5e6c8.png&w=640
+cults-karcher-attachment-with-spray-hose https://cache.polyzon.org/api/img?url=https%3A%2F%2Fimages.cults3d.com%2FmJf5Mnxh9d46O1TBbiTFdmVO2jE%3D%2F516x516%2Ffilters%3Ano_upscale()%2Fhttps%3A%2F%2Ffbi.cults3d.com%2Fuploaders%2F18427030%2Fillustration-file%2Fe8bbc654-883c-4cd4-8505-a21f803a77df%2F1655032638211.jpg&w=640
+tv-6114985 https://cache.polyzon.org/api/img?url=https%3A%2F%2Fresize.thingiverse.com%2F%3Furl%3Dhttps%3A%2F%2Fcdn.thingiverse.com%2Fassets%2F0b%2F84%2F29%2F22%2F09%2F94dec2fb-0851-4a17-8392-62a16b5f1bfe.jpg%26w%3D1024%26h%3D1024%26fit%3Dcontain%26cbg%3Dwhite%26n%3D-1&w=640
+mw-813829 https://cache.polyzon.org/api/img?url=https%3A%2F%2Fmakerworld.bblmw.com%2Fmakerworld%2Fmodel%2FUS1c5f03495f8bd4%2Fdesign%2F2024-11-23_brp5y5o0ijs4.jpg&w=640
+mw-1398929 https://cache.polyzon.org/api/img?url=https%3A%2F%2Fmakerworld.bblmw.com%2Fmakerworld%2Fmodel%2FUS7e1e6713b351f6%2Fdesign%2F2025-05-09_075882a24e407.jpg&w=640
+mw-1919170 https://cache.polyzon.org/api/img?url=https%3A%2F%2Fmakerworld.bblmw.com%2Fmakerworld%2Fmodel%2FUSb1ecf6db7d10e9%2Fdesign%2F2025-10-24_f5c7e6afd80f5.jpg&w=640
+tv-4283898 https://cache.polyzon.org/api/img?url=https%3A%2F%2Fresize.thingiverse.com%2F%3Furl%3Dhttps%3A%2F%2Fcdn.thingiverse.com%2Fassets%2F95%2F2b%2F26%2F49%2F48%2Fkarcher_SC3.png%26w%3D1024%26h%3D1024%26fit%3Dcontain%26cbg%3Dwhite%26n%3D-1&w=640
+tv-4878637 https://cache.polyzon.org/api/img?url=https%3A%2F%2Fresize.thingiverse.com%2F%3Furl%3Dhttps%3A%2F%2Fcdn.thingiverse.com%2Fassets%2F3b%2F80%2Fc8%2F08%2F1f%2FAufbewahrung_f%C3%BCr_K%C3%A4rcher_Dampfreiniger_SC1_1.png%26w%3D1024%26h%3D1024%26fit%3Dcontain%26cbg%3Dwhite%26n%3D-1&w=640
+mw-1058614 https://cache.polyzon.org/api/img?url=https%3A%2F%2Fmakerworld.bblmw.com%2Fmakerworld%2Fmodel%2FDSM00000001058614%2Fdesign%2F90521e35-9ec2-40b1-abf7-981863e1ca4a.webp&w=640
+mw-522083 https://cache.polyzon.org/api/img?url=https%3A%2F%2Fmakerworld.bblmw.com%2Fmakerworld%2Fmodel%2FDSM00000000522083%2Fdesign%2F2024-07-04_6d8761c449edb8.png&w=640
+mw-502702 https://cache.polyzon.org/api/img?url=https%3A%2F%2Fmakerworld.bblmw.com%2Fmakerworld%2Fmodel%2FUS32753258806ebf%2Fdesign%2F2024-06-20_a9c694f9e3c7b.png&w=640
+tv-3447217 https://cache.polyzon.org/api/img?url=https%3A%2F%2Fresize.thingiverse.com%2F%3Furl%3Dhttps%3A%2F%2Fcdn.thingiverse.com%2Fassets%2F81%2Fbd%2F23%2F86%2F85%2Fimage.png%26w%3D1024%26h%3D1024%26fit%3Dcontain%26cbg%3Dwhite%26n%3D-1&w=640
