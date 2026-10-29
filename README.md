@@ -2,7 +2,7 @@
 
 Дата исследования: 29.10.2026.
 
-Каталог 3D-моделей с картинками и ссылками: [3d-models-catalog.pdf](3d-models-catalog.pdf).
+Каталог 3D-моделей с картинками и ссылками: [3d-models-catalog.pdf](3d-models-catalog.pdf). Как добавить недостающие картинки и пересобрать — [catalog/README.md](catalog/README.md).
 
 ## 0. Как собраны данные и что в них не так
 
